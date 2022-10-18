@@ -5,9 +5,10 @@ Command Line Game
 ![Screenshot (417)](https://user-images.githubusercontent.com/59414392/191896664-eff360a3-873e-493c-971a-7d80628b1ed1.png)
 
 <br/>
-How to play! <br/>
+# How to play! <br/>
+
 open your terminal (for windows use git bash) <br/>
-```
+```bash
 $ git clone https://github.com/nayan2020/tictactoe.git
 $ python tictactoe.py
 ```
