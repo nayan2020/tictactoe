@@ -8,7 +8,6 @@ Command Line Game
 How to play! <br/>
 open your terminal (for windows use git bash) <br/>
 ```
-$ git clone https://github.com/nayan2020/tictactoe.git   <br/>
-
+$ git clone https://github.com/nayan2020/tictactoe.git
 $ python tictactoe.py
 ```
